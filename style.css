@@ -34,6 +34,14 @@ body {
     text-decoration: none;
 }
 
+.nav-content a:hover {
+    color: gray;
+}
+
+.nav-content .name:hover{
+    color: gray;
+}
+
 .hero-section {
     background-image: url(hero1.jpg);
     background-blend-mode: darken;
@@ -71,6 +79,10 @@ body {
     padding: 100px 0 110px;
     height: 874px;
     width: 100%;
+}
+
+.about-me span {
+    color: blue;
 }
 
 .about-me .head {
@@ -266,6 +278,10 @@ footer {
     font-size: 40px;
     color: white;
     padding-top: 4px;
+}
+
+.icon4 a{
+    color: white;
 }
 
 .copy p{
