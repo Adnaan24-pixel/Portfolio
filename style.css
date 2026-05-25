@@ -148,7 +148,7 @@ body {
 
 }
 
-.proclaims i:hover{
+.proclaims i:hover{     
     animation: spin 1s forwards;
 }
 
